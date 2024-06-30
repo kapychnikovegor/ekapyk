@@ -1,4 +1,3 @@
-![image](https://github.com/kapychnikovegor/ekapyk/assets/174281791/c2bd1e4a-0096-476e-8a99-a1ff0e93c8ac)# Kapychnykov Yegor
 # My project work it's a game "Tic Tac Toe".
 ### Rules of the game:
 The game is played on a grid that's 3 squares by 3 squares.
