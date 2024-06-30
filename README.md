@@ -7,6 +7,9 @@ The first player to get 3 of her marks in a row (up, down, across, or diagonally
 When all 9 squares are full, the game is over. If no player has 3 marks in a row, the game ends in a tie.
 ### How to play in my game
 1. First, you must choose your option ( X or O )
-   ![Uploading image.png…]()
+   (![image](https://github.com/kapychnikovegor/ekapyk/assets/174281791/07133ab5-3d42-47c5-80ca-8e86108d93de))
+
+
+
 
 
